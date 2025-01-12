@@ -16,3 +16,4 @@ ResNet152V2
 
 ### 결론  
 두개의 model 을 concate함으로써 한개의 model에서는 얻을 수 없었던 정확도를 달성할 수 있었음  
+![image](https://github.com/user-attachments/assets/45424bb9-6110-4f81-a553-2f89f8c9dd7d)
